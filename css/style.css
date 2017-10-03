@@ -1020,6 +1020,10 @@ h6 {
       display: block; }
       .footer .copyright .copyright-year .heart {
         font-size: 14px; }
+  .footer .busuanzi {
+    text-align: center;
+    display: block;
+    margin-left: 50px; }
 
 .archive {
   margin: 2em 0px;
